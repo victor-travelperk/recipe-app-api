@@ -1,4 +1,4 @@
-from django.apps import AppConfigtest_wait_for_
+from django.apps import AppConfig
 
 
 class CoreConfig(AppConfig):
